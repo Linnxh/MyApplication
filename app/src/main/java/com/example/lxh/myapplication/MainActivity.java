@@ -27,6 +27,10 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
 
+
+
+
+
         Person person = new Person();
         Date date = new Date();
 
